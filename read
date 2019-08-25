@@ -1,0 +1,3 @@
+import { FormControl, FormGroup, FormBuilder} from '@angular/forms';
+
+and import reactiveFormsModule in app.module.ts
